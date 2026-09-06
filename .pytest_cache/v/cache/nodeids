@@ -1,9 +1,0 @@
-[
-  "test_engine.py::test_attack_fdi_negative_rejected",
-  "test_engine.py::test_attack_hmac_tamper_rejected",
-  "test_engine.py::test_attack_teleport_delta_rejected",
-  "test_engine.py::test_connectome_bilateral_ratio",
-  "test_engine.py::test_left_wall_avoidance",
-  "test_engine.py::test_nominal_forward_flight",
-  "test_engine.py::test_right_wall_avoidance"
-]
