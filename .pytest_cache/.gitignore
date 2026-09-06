@@ -1,0 +1,15 @@
+# Virtual environments and dependencies
+venv/
+node_modules/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+CACHEDIR.TAG
+
+# Large connectome raw data (if over GitHub's 100MB file limit)
+fly_connections.csv.gz
+
+# Environment secrets
+.env
