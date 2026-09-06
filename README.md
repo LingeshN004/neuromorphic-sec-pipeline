@@ -91,15 +91,27 @@ The navigation controller runs on synaptic data directly extracted from the **Fl
 
 ```text
 neuromorphic-sec-pipeline/
-├── bot.js                  # Autonomous Mineflayer agent (Sensors, Combat, Reflexes)
-├── engine.py               # Neuromorphic matrix processor & motor logic
-├── server.py               # Asynchronous UDP verification listener & security gateway
-├── fuzzer.py               # Adversarial telemetry injection & fuzzing suite
-├── build_synapse_matrix.py # FlyWire biological synapse parsing tool
-├── fly_annotations.csv     # Neuron classification metadata
-├── fly_connections.csv.gz  # Raw Drosophila synaptic connection graph
-├── tests/                  # Pytest verification suites
-└── requirements.txt        # Python dependency manifest
+├── data/
+│   ├── fly_annotations.csv
+│   └── fly_connections.csv.gz
+├── tests/
+│   ├── test_engine.py
+│   └── test_env.py
+├── tools/
+│   ├── client_sim.py
+│   ├── mc_test_server.js
+│   └── sim_agent.py
+├── bot.js                  # Production Mineflayer agent
+├── engine.py               # Neuromorphic motor engine
+├── server.py               # Zero-Trust UDP gateway
+├── fuzzer.py               # Adversarial fuzzing pipeline
+├── build_synapse_matrix.py # Synapse extraction pipeline
+├── parse_connectome.py     # Connectome parser
+├── run_hardened_agent.py   # Full hardened stack launcher
+├── package.json
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ---
