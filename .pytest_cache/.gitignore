@@ -13,3 +13,4 @@ fly_connections.csv.gz
 
 # Environment secrets
 .env
+mc_server/

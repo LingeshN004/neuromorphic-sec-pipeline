@@ -1,0 +1,28 @@
+[12:05:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:05:03] [ServerMain/INFO]: Loaded 7 recipes
+[12:05:03] [ServerMain/INFO]: Loaded 1271 advancements
+[12:05:03] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:05:03] [Server thread/INFO]: Loading properties
+[12:05:03] [Server thread/INFO]: Default game type: SURVIVAL
+[12:05:03] [Server thread/INFO]: Generating keypair
+[12:05:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:05:03] [Server thread/INFO]: Using epoll channel type
+[12:05:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:05:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:05:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:05:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:05:04] [Server thread/INFO]: Preparing level "world"
+[12:05:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:05:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:05:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:05:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:05:06] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[12:05:06] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[12:05:07] [Worker-Main-8/INFO]: Preparing spawn area: 34%
+[12:05:07] [Worker-Main-11/INFO]: Preparing spawn area: 86%
+[12:05:07] [Server thread/INFO]: Time elapsed: 3082 ms
+[12:05:07] [Server thread/INFO]: Done (3.721s)! For help, type "help"
+[12:05:30] [Server thread/INFO]: FlyBrainBot[/127.0.0.1:47158] logged in with entity id 209 at (-9.5, 72.0, 0.5)
+[12:05:30] [Server thread/INFO]: FlyBrainBot joined the game
+[12:09:39] [Server thread/INFO]: FlyBrainBot lost connection: Disconnected
+[12:09:39] [Server thread/INFO]: FlyBrainBot left the game
