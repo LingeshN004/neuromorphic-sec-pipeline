@@ -5,7 +5,7 @@
 [![Stack](https://img.shields.io/badge/Stack-Python%20%7C%20Node.js%20%7C%20Mineflayer-green.svg)](#-system-architecture)
 [![Testing](https://img.shields.io/badge/Tests-Pytest%20%7C%20Fuzzing-orange.svg)](#-testing--adversarial-validation)
 
-> **What happens when you transplant the biological brain wiring of a real fruit fly into an autonomous Minecraft agent—and then wrap its entire nervous system inside a military-grade Zero-Trust cryptographic fortress?**
+> **What happens when you transplant the biological brain wiring of a real fruit fly into an autonomous Minecraft agent and then wrap its entire nervous system inside a military-grade Zero-Trust cryptographic fortress?**
 
 ---
 
