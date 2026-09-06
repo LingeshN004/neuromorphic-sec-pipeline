@@ -9,7 +9,7 @@ An autonomous sensory-motor agent driven by real Drosophila melanogaster (fruit 
 
 ---
 
-## 🏛 System Architecture
+## System Architecture
 
 The project decouples the untrusted sensory agent from the internal neuromorphic motor engine via a cryptographically enforced physical boundary:
 
@@ -41,7 +41,7 @@ The project decouples the untrusted sensory agent from the internal neuromorphic
 
 ---
 
-## 🛡️ Security Architecture (Zero-Trust Model)
+## Security Architecture (Zero-Trust Model)
 
 Designed around perimeter-defense and telemetry validation principles:
 
@@ -54,7 +54,7 @@ Designed around perimeter-defense and telemetry validation principles:
 
 ---
 
-## 🧬 Neuromorphic Engine
+## Neuromorphic Engine
 
 The navigation pipeline runs against synaptic connections derived from the **FlyWire Whole-Brain Connectome (FAFB v783)**:
 
@@ -64,7 +64,7 @@ The navigation pipeline runs against synaptic connections derived from the **Fly
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 neuromorphic-sec-pipeline/
@@ -81,7 +81,7 @@ neuromorphic-sec-pipeline/
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. Environment Setup
 ```bash
