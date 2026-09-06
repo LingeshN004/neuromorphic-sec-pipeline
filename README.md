@@ -9,9 +9,9 @@
 
 ---
 
-## What Is This? (The Breakdown)
+## What Is This? 
 
-Imagine taking the literal neural wiring of an insect—over **5.3 million real biological synapses** mapped by neuroscientists at Princeton—and turning it into an artificial brain that pilots a Minecraft bot in real time.
+Imagine taking the literal neural wiring of an insect over **5.3 million real biological synapses** mapped by neuroscientists at Princeton University and turning it into an artificial brain that pilots a Minecraft bot in real time.
 
 Now imagine treating that bot like an untrusted military drone operating in hostile territory:
 
